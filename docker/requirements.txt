@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+gunicorn
+pydantic
+python-multipart
+numpy
+pandas
+joblib
+scikit-learn
+torch
+transformers
+accelerate
+librosa
+av
+faster-whisper
